@@ -1,1 +1,1 @@
-#magic number
+Simple magic-number game script.
